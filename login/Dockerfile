@@ -1,5 +1,7 @@
 FROM golang:1.18
 
+ENV DATA_PATH=/data
+
 ENV HOSTNAME=
 
 ENV PORT=80
