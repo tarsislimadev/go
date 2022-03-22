@@ -6,5 +6,6 @@ services:
     build: './login'
     volumes:
       - './login:/usr/src/app'
+      - './data:/data'
     ports:
       - '2200:80'
