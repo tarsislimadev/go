@@ -2,13 +2,14 @@
 package main
 
 import "os"
+import "flag"
 import "net/url"
 import "net/http"
 
 var (
-	ROOT = os.Getenv("DATA_PATH")
-	HOST = os.Getenv("HOSTNAME")
-	PORT = os.Getenv("PORT")
+	ROOT = *flag.String("path", os.Getenv("DATA_PATH"), "The path of the data.")
+	HOST = *flag.String("host", os.Getenv("HOSTNAME"), "The host name")
+	PORT = *flag.String("port", os.Getenv("PORT"), "The host port")
 
 	INDEX_NAME = "private/login"
 )
