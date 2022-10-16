@@ -2,12 +2,12 @@
 
 A set of services writen in [Go Lang](https://go.dev/)
 
-## projects
+## Projects
 
 [Login](./login/README.md)
 
 [Upload](./upload/README.md)
 
-## license
+## License
 
 [MIT](./LICENSE)
