@@ -1,13 +1,13 @@
-# Go Projects
+# Go Lang
 
-A set of services writen in [Go Lang](https://go.dev/)
+Coleção de serviços escritos em [Go Lang](https://go.dev/)
 
-## Projects
+## Serviços
 
 [Login](./login/README.md)
 
 [Upload](./upload/README.md)
 
-## License
+## Licença
 
 [MIT](./LICENSE)
