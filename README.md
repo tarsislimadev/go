@@ -1,6 +1,6 @@
 # Go Lang
 
-Coleção de serviços escritos em [Go Lang](https://go.dev/)
+Para projetos escritos em [Go Lang](https://go.dev/)
 
 ## Serviços
 
