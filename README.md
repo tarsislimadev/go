@@ -10,10 +10,10 @@ To compile projects written in [Go](https://go.dev/).
 
 ...
 
-## Projects
+## Services
 
 ...
 
-## Samples
+## LICENSE
 
 [MIT](./LICENSE)
