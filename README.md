@@ -4,7 +4,7 @@ To compile projects written in [Go](https://go.dev/).
 
 ## Docker image
 
-Go Lang - [github](https://github.com/brtmvdl/docker-go) - [Docker Hub](https://hub.docker.com/r/tmvdl/go)
+Go Lang - [GitHub](https://github.com/brtmvdl/docker-go) - [Docker Hub](https://hub.docker.com/r/tmvdl/go)
 
 ## Projects
 
