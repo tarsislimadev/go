@@ -12,7 +12,9 @@ Go Lang - [GitHub](https://github.com/brtmvdl/docker-go) - [Docker Hub](https://
 
 ## Services
 
-...
+[Login](./services/login/README.md)
+
+[Upload](./services/upload/README.md)
 
 ## LICENSE
 
